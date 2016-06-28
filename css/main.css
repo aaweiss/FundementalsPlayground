@@ -28,6 +28,22 @@ body{
 	background-color: green;
 }
 
+.css-basics{
+	border: 2px dashed black;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
 /*css for smiley face*/
 
 .face{
